@@ -1,0 +1,11 @@
+{
+  "name": "lightweight-agent",
+  "version": "1.0.0",
+  "description": "轻量级 AI Agent CLI，对接本地 Ollama + CDP 浏览器",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.21.0"
+  }
+}

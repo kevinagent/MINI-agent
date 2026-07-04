@@ -1,0 +1,45 @@
+{
+  "available": [
+    {
+      "name": "file-manager",
+      "desc": "文件管理器",
+      "icon": "📁"
+    },
+    {
+      "name": "excel-master",
+      "desc": "Excel大师",
+      "icon": "📊"
+    },
+    {
+      "name": "browser-cdp",
+      "desc": "浏览器自动化",
+      "icon": "🌐"
+    },
+    {
+      "name": "qq-email",
+      "desc": "QQ邮箱",
+      "icon": "📧"
+    },
+    {
+      "name": "material-organizer",
+      "desc": "资料整理助手",
+      "icon": "📚"
+    },
+    {
+      "name": "pdf-reader",
+      "desc": "PDF阅读器",
+      "icon": "📄"
+    },
+    {
+      "name": "code-review",
+      "desc": "代码审查",
+      "icon": "🔍"
+    },
+    {
+      "name": "terminal-helper",
+      "desc": "终端助手",
+      "icon": "💻"
+    }
+  ],
+  "installed": []
+}

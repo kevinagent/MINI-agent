@@ -1,0 +1,10 @@
+[08:40:26] [P1] raw input: "今天有什么热点新闻" (len=9)
+[08:40:26] [OLLAMA] model=qwen2.5:3b msgs=2
+[08:40:26] [OLLAMA] err: fetch failed
+[08:42:32] [P1] raw input: "今天有什么热点新闻" (len=9)
+[08:42:32] [OLLAMA] model=qwen2.5:3b msgs=2
+[08:42:49] [P1] router:qwen2.5:3b input:"今天有什么热点新闻" → raw:"SEARCH@true"
+[08:42:49] [P1] result: tools=["SEARCH"] feedback=true
+[08:42:49] [P1] 🔧 +SEARCH: needsOnlineSearch
+[08:42:49] [SEARCH] cache hit for "今天有什么热点新闻"
+[08:42:49] [CHAT] search with context → calling ollamaOnce...
